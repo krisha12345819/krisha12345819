@@ -41,18 +41,6 @@ I am a Computer Engineering student with a strong passion for **Artificial Intel
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krisha12345819&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha12345819&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisha12345819&theme=default&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me
@@ -67,6 +55,8 @@ I am a Computer Engineering student with a strong passion for **Artificial Intel
   </a> -->
 </p>
 
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/krisha-anghan-bb1179382/)
 ---
 
 <p align="center">
