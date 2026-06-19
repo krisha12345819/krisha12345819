@@ -56,7 +56,7 @@ I am a Computer Engineering student with a strong passion for **Artificial Intel
 </p>
 
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/krisha-anghan-bb1179382/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/krisha-anghan-bb1179382/)
 ---
 
 <p align="center">
